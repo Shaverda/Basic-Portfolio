@@ -4,6 +4,14 @@ body {
 hr {
 	border: 1px solid #e6e6e6;
 }
+input {
+	width: 76%;
+}
+.submit-button {
+	color: #fff;
+	background-color: #4aaaa5;
+	width: 20%;
+}
 .nav-links {
 	color: #b3b3b3;
 	padding: 15px 15px 15px 15px;
@@ -47,8 +55,7 @@ header {
 	font-size: 75%;
 	color: #e6e6e6;
 	bottom: 0%;
-	overflow: auto;
-	float: left;
+	position: fixed;
 }
 .container {
 	margin-top: 5%;
@@ -108,7 +115,7 @@ figure {
     position: absolute;
     bottom: 12%;
     width: 84%;
-    padding: 10px 10px 10px 10px;
+    padding: 1px 10px 10px 10px;
 }
 .portfolio-projects {
 	position: relative;
