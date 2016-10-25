@@ -19,6 +19,19 @@ p {
 	width: 80px;
 	padding: 10px 3px 3px 3px;
 }
+footer {
+	text-align: center;
+	border-top: 10px #4aaaa5 solid;
+	background-color: #666666;
+	width: 100%;
+	margin: 30px 0px 0px 0px;
+	color: #fff;
+	padding: 25px;
+	font-size: 75%;
+	color: #e6e6e6;
+	bottom: 0%;
+	position: fixed;
+}
 /* header things */
 .nav-links {
 	color: #b3b3b3;
@@ -60,26 +73,15 @@ input {
 }
 
 
-
+/*  about me  */
 .about-me-img {
 	height: 30%;
 	width: 30%;
 	float: left;
 	padding: 10px 20px 20px 0px;
 }
-footer {
-	text-align: center;
-	border-top: 10px #4aaaa5 solid;
-	background-color: #666666;
-	width: 100%;
-	margin: 30px 0px 0px 0px;
-	color: #fff;
-	padding: 25px;
-	font-size: 75%;
-	color: #e6e6e6;
-	bottom: 0%;
-	position: fixed;
-}
+
+
 .container {
 	margin-top: 5%;
     padding-left: 10%;
